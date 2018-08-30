@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<Ulke>
+		<UlkeAd>KANADA</UlkeAd>
+		<Baskent>Ottawa</Baskent>
+		<Nufus>35.295.770</Nufus>
+		<Alan>9.970.610 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/ca.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Birleþik Krallýk</UlkeAd>
+		<Baskent>Londra</Baskent>
+		<Nufus>63.705.000</Nufus>
+		<Alan>242.900 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/gb.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Japonya</UlkeAd>
+		<Baskent>Tokyo</Baskent>
+		<Nufus>127.180.000</Nufus>
+		<Alan>377.873 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/jp.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Amerika Birleþik Devletleri</UlkeAd>
+		<Baskent>Washington, District of Columbia</Baskent>
+		<Nufus>317.706.000</Nufus>
+		<Alan>9.629.090 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/us.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Fransa</UlkeAd>
+		<Baskent>Paris</Baskent>
+		<Nufus>65.844.000</Nufus>
+		<Alan>551.500 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/fr.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Almanya</UlkeAd>
+		<Baskent>Berlin</Baskent>
+		<Nufus>80.619.000</Nufus>
+		<Alan>357.022 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/de.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Brezilya</UlkeAd>
+		<Baskent>Brezilya</Baskent>
+		<Nufus>201.032.714</Nufus>
+		<Alan>8.514.880 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/br.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Ýtalya</UlkeAd>
+		<Baskent>Roma</Baskent>
+		<Nufus>59.943.933</Nufus>
+		<Alan>301.318 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/it.png</Resim>
+	</Ulke>
+<Ulke>
+		<UlkeAd>Güney Kore</UlkeAd>
+		<Baskent>Seoul</Baskent>
+		<Nufus>50.219.669</Nufus>
+		<Alan>99.538 km2</Alan>
+		<Resim>http://flags.fmcdn.net/data/flags/h80/kr.png</Resim>
+	</Ulke>
+	
+	
