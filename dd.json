@@ -1,0 +1,56 @@
+content-type: text/html; charset=utf-8
+content-type: application/json; charset=utf-8
+{
+    "firma":[{
+        "firmaad": "CSC",
+        "firmatanim": "CSC veya Computer Sciences Corporation, dünyanýn en eski BT þirketlerinden biridir. 1959’da Roy Nutt ve Fletcher Jones tarafýndan kuruldu.",
+        "gelir": "Gelir: 10132 Milyon $",
+        "kar": "Kâr: 395 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-10.jpg"},{
+        "firmaad": "Cognizant Teknoloji Çözümleri",
+        "firmatanim": "Cognizant, önde gelen bir BT servis þirketidir ve dünyadaki en iyi BT þirketlerinde göze çarpmaktadýr. Cognizant’ýn merkezi ABD’nin New Jersey kentindedir.",
+        "gelir": "Gelir: 12416 Milyon $",
+        "kar": "Kâr: 1623 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-09.jpg"},{
+        "firmaad": "Capgemini",
+        "firmatanim": "Capgemini, merkezi Paris, Fransa’da bulunan küresel bir BT þirketidir. Capgemini, dünya çapýnda 44 ülkede bulunuyor. 180000 kiþilik küresel bir iþgücüne sahiptir.",
+        "gelir": "Gelir: 13370 Milyon $",
+        "kar": "Kâr: 1242 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-08.jpg"},{
+        "firmaad": "Tata Danýþmanlýk Hizmetleri (TCS)",
+        "firmatanim": "Hindistan’daki prestijli Tata Grubu tarafýndan desteklenen TCS veya Tata Danýþmanlýk Hizmetleri, sadece Hindistan’da deðil, dünyanýn önde gelen BT hizmetleri lider saðlayýcýsýdýr.",
+        "gelir": "Gelir: 16238 Milyon $",
+        "kar": "Kâr: 3719 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-07.jpg"},{
+        "firmaad": "SAP",
+        "firmatanim": "SAP, kurumsal paket yazýlým alanýnda büyük bir güçtür. SAP, dünyadaki birçok þirket tarafýndan, iþletmelerini kolaylaþtýrmak ve kýyaslamak için kullanýlmaktadýr.",
+        "gelir": "Gelir: 23346 Milyon $",
+        "kar": "Kâr: 3429 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-06.jpg"},{
+        "firmaad": "Hewlett Packard Enterprise",
+        "firmatanim": "Hewlett Packard, teknoloji endüstrisinde insanlarýn PC’leri kullanma biçiminde devrim yaratan en büyük ve en eski isimden biridir.",
+        "gelir": "Gelir: 24200 Milyon $",
+        "kar": "Kâr: 1200 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-05.jpg"},{
+        "firmaad": "Oracle Corporation",
+        "firmatanim": "Oracle SAP gibi, dünyadaki önemli bir kurumsal yazýlým saðlayýcýsýdýr. Aslýnda SAP ve Oracle birbirlerinin en büyük rakipleri.",
+        "gelir": "Gelir: 29037 Milyon $ (Aralýk-Kasým)",
+        "kar": "Kâr: 9198 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-04.jpg"},{
+        "firmaad": "Accenture",
+        "firmatanim": "Accenture, sayý, teknoloji, danýþmanlýk ve dýþ kaynak kullanýmý alanlarýnda BT devi. Accenture nispeten yeni bir IT oyuncusudur.",
+        "gelir": "Gelir: 33037 Milyon $ (Aralýk-Kasým)",
+        "kar": "Kâr: 3250 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-03.jpg"},{
+        "firmaad": "Microsoft Corporation",
+        "firmatanim": "Microsoft, insanlarýn ve iþletmelerin teknolojiyi kullanma biçiminde devrim yaratan teknoloji þirketlerinin en büyük isimlerinden biridir.",
+        "gelir": "Gelir: 63055 Milyon $",
+        "kar": "Kâr: 8156 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-02.jpg"},{
+        "firmaad": "IBM",
+        "firmatanim": "IBM, teknolojinin devlerinden biridir ve en büyük BT þirketidir. IBM zamanýn testlerini yürüten ve her seferinde kendini yeniden icat eden bir markadýr.",
+        "gelir": "Gelir: 72155 Milyon $",
+        "kar": "Kâr: 11691 Milyon $",
+        "resim": "http://www.mbaskool.com/2016_images/top_brands/it_world/itwld16-01.jpg"}
+    ]
+}
